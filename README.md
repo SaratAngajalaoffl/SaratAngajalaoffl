@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an AI system to automate crypto trading<br>👯 I’m looking to collaborate on anything blockchain or web-development<br>🤝 I’m looking for a coding buddy / community<br>🌱 I’m currently learning Flutter development and AI<br>💬 Ask me about blockchain and entrepreneurship<br>⚡ Fun fact A huge fan of the anime OnePiece<br>
+🔭 I’m currently working on a no-code backend service for Web3 projects.<br>👯 I’m looking to collaborate on anything blockchain or web-development<br>🤝 I’m looking for a coding buddy / community<br>🌱 I’m currently learning Flutter development and Solana Development<br>💬 Ask me about blockchain and entrepreneurship<br>⚡ Fun fact A huge fan of the anime OnePiece<br>
 
 
 ## 🌐 Socials:
