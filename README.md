@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building at EpsilonLabs.<br>👯 I’m looking to collaborate on anything blockchain or web-development<br>🤝 I’m looking for a coding community to join<br>🌱 I’m currently researching EIP6551 and EIP7521<br>💬 Ask me about blockchain and entrepreneurship<br>⚡ Fun fact A huge fan of the anime OnePiece<br>
+🔭 I’m currently building EpsilonLabs.<br>👯 I’m looking to collaborate on anything blockchain or web-development<br>🤝 I’m looking for a coding community to join<br>🌱 I’m currently researching EIP6551 and EIP7521<br>💬 Ask me about blockchain and entrepreneurship<br>⚡ Fun fact A huge fan of the anime OnePiece<br>
 
 
 ## 🌐 Socials:
