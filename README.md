@@ -12,7 +12,7 @@
 - 🎮 Hardcore gamer (Souls-like enjoyer) — yes, I will roll into walls 400 times looking for secret doors  
 - 📺 Anime binger — from classics to seasonal drops (recommendations welcome, but beware, I will judge your taste)
 - 🏎 Recently fell down the **F1 rabbit hole** — I now care about tire degradation more than I should  
-- 🎶 AfroHouse beats on loop when coding — because debugging needs a soundtrack
+- 🎶 LoFi beats on loop when coding — because debugging needs a soundtrack
 
 ---
 
